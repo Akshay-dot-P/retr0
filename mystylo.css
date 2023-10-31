@@ -1,0 +1,236 @@
+
+
+
+  #post-title{
+    display: block;
+    position: absolute;
+    top:245px;
+    width: 400px;
+    font-size: 16px;
+
+  }
+
+
+
+  #post-url{
+    display: block;
+    position: absolute;
+    top:325px;
+    width: 400px;
+    font-size: 16px;
+
+  }
+
+  #post-summary{
+    display: block;
+    position: absolute;
+    top:400px;
+    width: 400px;
+    font-size: 16px;
+    height: 50px;
+  }
+
+
+  #submitbut{
+     top: 400px;
+     display:block;
+      height: 30px;
+      width: 100px;
+      border-radius: 4px;
+     background-color: #007bff;
+     font-size: 14px;
+    color:white;
+border-color: #007bff;
+font-family: sans-serif,segoe;
+    }
+
+
+input{
+display: block;
+    width: 100%;
+    height:30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.h1{
+  font-family: segoe;
+}
+
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+
+
+div.heading{
+top: 50px;
+
+overflow: visible;
+white-space: nowrap;
+text-align: center;
+font-family: hacked;
+height: 10%;
+background-attachment: fixed;
+border-radius: 40px;
+font-size: 50px;
+background-color: white;
+z-index: 2;
+}
+
+
+
+
+
+div.headingnextline {
+
+
+  top: 50px;
+  overflow: visible;
+  white-space: nowrap;
+  font-family: Erbos Draco Micro NBP;
+ text-align: center;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  box-sizing: border-box;
+
+
+  display: inline-block;
+
+background-attachment: fixed;
+line-height: 2.1;
+z-index: 5;
+  color:  #e4e5e4;
+  background-color:  #4d5198;
+
+}
+
+
+
+
+
+.headingnextline:hover{
+  color:#ff0000 ;
+  background-color:whitesmoke;
+  top: 40px;
+  animation-duration: 2s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.loginbut{
+
+  text-decoration: none;
+
+    top: 328px;
+  position:fixed;
+  overflow: visible;
+  white-space: nowrap;
+  text-align:center;
+  font-family: Erbos Draco Micro NBP;
+  width: 105px;
+  height: 28px;
+  margin-left: -183px ;
+  font-style: normal;
+  font-size: 22px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 1px;
+  padding-top: 19px;
+  display:inline-block;
+  background-attachment: fixed;
+  line-height: 0.6px;
+  background-color: #77C4FE;
+  z-index: 3;
+  color: #0A0000;
+
+
+}
+.loginbut:hover {
+line-height: 3.3px;
+padding-top: 21px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Registerbut{
+
+text-decoration: none;
+    top: 328px;
+  position:fixed;
+  overflow: visible;
+  white-space: nowrap;
+  text-align:center;
+  font-family: Erbos Draco Micro NBP;
+  width: 85px;
+  height: 28px;
+  margin-left: 57px ;
+  font-style: normal;
+  font-size: 18px;
+  padding-left: 3px;
+  padding-right: 40px;
+  padding-bottom: 2px;
+  padding-top: 19px;
+  display:inline-block;
+  background-attachment: fixed;
+  line-height: 0.6px;
+  background-color: #77C4FE;
+  z-index: 3;
+  color: #0A0000;
+
+
+}
+.Registerbut:hover {
+line-height: 3.3px;
+padding-top: 21px;
+}
+
+}
